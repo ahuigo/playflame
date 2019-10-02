@@ -2,6 +2,8 @@
 *.o
 *.a
 *.so
+*.mem
+*.cpu
 
 # Folders
 _obj
