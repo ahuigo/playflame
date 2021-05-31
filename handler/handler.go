@@ -2,7 +2,7 @@ package handler
 
 import (
 	"fmt"
-	"github.com/ahui/playflame/stats"
+	"github.com/ahuigo/playflame/stats"
 	"github.com/varstr/uaparser"
 	"net/http"
 	"os"
